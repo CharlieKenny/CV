@@ -12,7 +12,7 @@ I'm looking for opportunities where I can continue to learn, build on the agile 
 
 #### Full Stack Developer
 
-I have learnt how to build end-to-end desktop and mobile responsive web apps using Ruby (Ruby-on-Rails), most notably [Stitch](http://stitchvid.herokuapp.com/), a fully responsive app that allows users to take create aggregated visual narratives out of individual, crowdsourced videos uploaded on-the-go.
+I have learnt how to build end-to-end desktop and mobile responsive web apps using Ruby (Ruby-on-Rails), most notably [Stitch](http://stitchvid.herokuapp.com/), a fully responsive app that allows users to create aggregated visual narratives out of individual, crowdsourced videos uploaded on-the-go.
 
 Over the past 12 weeks I've become comfortable, in and see the value of, using git and Github for version control and team-working purposes. It's proved to be a vital tool in maintaining an agile workflow.
 
