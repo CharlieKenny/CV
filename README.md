@@ -1,6 +1,6 @@
 ## Charlie Kenny
 
-I’m a highly motivated and enthusiastic individual who is passionate about beautiful code, design and all things tech. I most recently worked as Acting Global Account Manager at JWT London, WPP’s flagship advertising agency where I helped a number of blue chip technology companies, including Microsoft and Nokia, launch new products and services on an international stage. 
+I’m a highly motivated and enthusiastic individual who is passionate about beautiful code, design and all things tech. I most recently worked as a Global Account Manager at JWT London where I helped a number of blue chip technology companies, including Microsoft and Nokia, launch new products and services on an international stage. 
 
 Through a lust for tech and a desire to learn more about how software works, I have just completed a 3-month intensive development bootcamp at Makers Academy.
 
@@ -43,16 +43,17 @@ I'm looking forward to using these communication skills to talk about something 
 #### King Edward VI School, Southampton
 
 - ABB at A-Level
-- 5 As 5Bs at GCSE
+- AAAB at AS-level
+- 5 As 5 Bs at GCSE
 
 ## Experience
 
 **JWT London** (November 2013 to April 2015)    
 *Acting Global Account Manager* 
 
-* Responsible for the day-to-day running of the account, overseeing multiple integrated campaigns from conception to delivery and providing the highest level of service for a broad range of global clients 
-
 *	Most recently managed Microsoft Lumia’s #MakeItHappen campaign across 12 countries that generated 3 million hits on YouTube. Was also responsible for the copywriting and overseeing of development for the campaign’s dedicated website
+
+* Responsible for the day-to-day running of the account, overseeing multiple integrated campaigns from conception to delivery and providing the highest level of service for a broad range of global clients 
 
 *	From Mexico to Indonesia, I presented end of campaign reports to clients from approximately 60 markets as well as maintaining relationships across borders, ensuring all cultural sensitivities are accounted for in the work we undertake at a local level
 
